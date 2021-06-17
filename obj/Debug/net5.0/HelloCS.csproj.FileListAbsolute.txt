@@ -1,0 +1,16 @@
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\aspre\OneDrive\Documents\code\chapter1\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
